@@ -160,3 +160,32 @@ escreva("@@@@@@@@@@@@@@@@@@@@@@@@@@@****-#@@@@@@@@@@@@@@@@@\n")
 escreva("@@@@@@@@@@@@@@@@@@@@@@@@@@@@*-@@@@@@@@@@@@@@@@@@@@\n")
 
 https://morsecodegenerator.org/pt/ascii-image
+
+inicio
+    escreva("              :                                   \n")
+    escreva("            -@@%+                                 \n")
+    escreva("           -@@@@-      :+*--+                     \n")
+    escreva("          .*@@@@@-.  :@@@@@@@#.+.                 \n")
+    escreva("          :@@@@@@@@@@@@@@@@@@@@@@@*-              \n")
+    escreva("          -@@@@@@@@@@@@@@@@@@@@@@@@@@-            \n")
+    escreva("          :@@@@@@@@@@+ *@@@@@#*                   \n")
+    escreva("          .*@@@@@@@*:  +@@@@:                     \n")
+    escreva("           +@@@@@*.    +*@@*-                     \n")
+    escreva("            :%@@@:      +@@+                      \n")
+    escreva("              -@@:      +@@+                      \n")
+    escreva("                --      +@@+                      \n")
+    escreva("                        +@@:                      \n")
+    escreva("                        -@@+                      \n")
+    escreva("                        -@@+                      \n")
+    escreva("                        -@@+                      \n")
+    escreva("                        -@@+                      \n")
+    escreva("                        -@@:                      \n")
+    escreva("                        *@@*                      \n")
+    escreva("                        -@@+                      \n")
+    escreva("                        :%@+                      \n")
+    escreva("                        -@@+                      \n")
+    escreva("                        -@@+                      \n")
+    escreva("                       -%@@*+                     \n")
+    escreva("                        :--+                      \n")
+fim
+
